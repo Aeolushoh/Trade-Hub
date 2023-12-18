@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#99ccff</color>
+    <color name="red">#FA8072</color>
+    <color name="red1">#FF9999</color>
+    <color name="button2">#000000</color>
+    <color name="button31">#11992C</color>
+    <color name="button32">#ADADAD</color>
+    <color name="button41">#BEBEBE</color>
+    <color name="button42">#FCFCFC</color>
+    <color name="button7">#F0F0F0</color>
+    <color name="cat">#E9E9E9</color>
+</resources>

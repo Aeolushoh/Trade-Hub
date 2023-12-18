@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 空心长方形 -->
+    <stroke
+        android:width="1dp"
+        android:color="#E9E9E9" />
+<solid android:color="#ababab">
+    <!-- 设置弧度 -->
+    <corners android:radius="10dp" />
+</solid>
+</shape>
